@@ -1,0 +1,1 @@
+importScripts("https://media.skytraffix.net/js/push/worker.js");
